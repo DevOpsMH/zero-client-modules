@@ -62,11 +62,11 @@
     "eslint-plugin-react-hooks": "4.2.0",
     "husky": "4.3.4",
     "lint-staged": "10.5.3",
-    "ncp": "^2.0.0",
+    "ncp": "2.0.0",
     "prettier": "2.2.1",
     "react-app-rewire-alias": "0.1.8",
     "react-app-rewired": "2.1.7",
-    "rimraf": "^3.0.2"
+    "rimraf": "3.0.2"
   },
   "husky": {
     "hooks": {
